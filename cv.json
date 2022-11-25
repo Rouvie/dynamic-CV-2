@@ -1,0 +1,32 @@
+{
+    "employment": [
+        {
+            "time": "2019-2021",
+            "jobTitle": "B-BERUIT RESTURANG",
+            "location": "Stockholm"
+        },
+        {
+            "time": "2022-2024",
+            "jobTitle": "Student ",
+            "location": "Chas Academy"
+            
+        }
+    ],
+    
+    "education": [
+        "2016 -2018 Biritsh high school in Cairo-Egypt",
+        "2019-2021 ABF SKOLAN , JENSEN SKOLA",
+        "2021-2024 Chas Academy UX-UI DESIGNER" 
+       
+    ],
+    "internships": [
+        {
+            "companyName": "Google ",
+            "text": "Jag googlade hela tiden "
+        },
+        {
+            "companyName": "Facebook",
+            "text": "Jag likade random bilder varje dag"
+        }
+    ]
+}
